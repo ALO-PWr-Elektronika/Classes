@@ -7,6 +7,11 @@
 3. Krótka rozmowa z uczestnikami o ich celach. 
 4. Przedstawienie dostępnych kanałów komunikacyjnych - github oraz discord
 
+### Pokazy Projektów
+
+1. Pokazy MO
+2. Pokazy RW
+
 ### Temat : Układy logiczne
 
 1. Instrukcja użytkowania oscyloskopu oraz zestawu do nauki
@@ -25,4 +30,3 @@ Doświadczenia:
 - Badanie stanów logicznych dla konwertera z układu C
 - Sterowanie wyświetlaczem 7-segmentowym. Zasadność użycia konwertera
 - Dowolny fragment układu C na TTL - Sprawdzenie logiki systemu TTL
-
