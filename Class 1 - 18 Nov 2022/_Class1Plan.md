@@ -4,7 +4,7 @@
 
 1. Rozstawienie sprzętu doświadczalnego - oscyloskopu oraz zestawu do nauki
 2. Przedstawienie się,
-3. Krótka rozmowa z uczestnikami o ich celach. 
+3. Krótka rozmowa z uczestnikami o celach zajęć. 
 4. Przedstawienie dostępnych kanałów komunikacyjnych - github oraz discord
 
 ### Pokazy Projektów
