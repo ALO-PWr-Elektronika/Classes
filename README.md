@@ -10,3 +10,7 @@ Gorąco zachęcam do zapoznania się z materiałami, w szczególności z zestawe
 3. [(02.12.2022) – Półprzewodniki, diody i tranzystor bipolarny](3_02.12.2022notes.md)
 4. [(16.12.2022) – Kondensatory](4_16.12.2022notes.md)
 5. [(13.01.2023) – Elementy wprowadzające dane](5_13.01.2023notes.md)
+
+Dodatkowo zachęcam do zapoznania się z dodatkami do kursu, które jeszcze bardziej pozwolą zbliżyć się do elektroniki:
+
+1. [Dodatek I – Przykłady wyprowadzeń z równań różniczkowych i rachunku całkowego](Other%20Materials/differential.equations.md)
