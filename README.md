@@ -13,4 +13,4 @@ Gorąco zachęcam do zapoznania się z materiałami, w szczególności z zestawe
 
 Dodatkowo zachęcam do zapoznania się z dodatkami do kursu, które jeszcze bardziej pozwolą zbliżyć się do elektroniki:
 
-1. [Dodatek I – Przykłady wyprowadzeń z równań różniczkowych i rachunku całkowego](Other%20Materials/differential.equations.md)
+1. [Dodatek I – Przykłady wyprowadzeń z równań różniczkowych i rachunku całkowego](other/differential.equations.md)
