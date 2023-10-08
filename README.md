@@ -3,6 +3,8 @@
 Cześć!
 Pierwsze zajęcia już 9 października o 14:20.
 
+- [Konkurs](./2023/mini-competition.md)
+
 Prezentuję krótki plan zajęć z elektroniki na rok 2023. Chciałbym w tym roku poprowadzić serię luźno połączonych ze sobą zajęć, 
 podczas których omówię ważne oraz ciekawe aspekty tej interesującej dziedziny:
 1. [Technologia druku 3D oraz jej zastosowania](./2023/1_09.10.2023notes.md)
@@ -37,9 +39,9 @@ podczas których omówię ważne oraz ciekawe aspekty tej interesującej dziedzi
     - Demonstracja praktyczna: Integracja modułu czytającego odciski palca, uwierzytelnienie w serwisach sieciowych.
 
 Dodatkowo w ramach dalszego zainteresowania elektroniką przewiduję:
-    - Internetowe zasoby - bazę wiedzy z odniesieniami do opracowań i interesujących projektów.
-    - Grupę zajęciową - do wzajemnej wymiany pytań i odpowiedzi.
-    - Konkurs z nagrodami - opierający się o przedstawione na wykładzie zagadnienia, trwający od drugich zajęć do ich końca.
+- Internetowe zasoby - bazę wiedzy z odniesieniami do opracowań i interesujących projektów.
+- Grupę zajęciową - do wzajemnej wymiany pytań i odpowiedzi.
+- Konkurs z nagrodami - opierający się o przedstawione na wykładzie zagadnienia, trwający od drugich zajęć do ich końca.
 
 Do zobaczenia,
 Rafał Włodarczyk
