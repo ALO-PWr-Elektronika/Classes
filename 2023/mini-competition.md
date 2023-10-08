@@ -27,7 +27,7 @@ Nagrody:
     3. miejsce: [Nagroda w trakcie ustalania]
 
 Termin nadsyłania zgłoszeń: 
-- Wszystkie zadania muszą zostać przesłane do 23:59 15 grudnia 2023 roku.
+- Zadania muszą zostać przesłane do 23:59 15 grudnia 2023 roku.
 
 Punktacja:
 - Sprawdzenie odbywa się po 15 grudnia 2023 roku.
