@@ -10,7 +10,7 @@ podczas których omówię ważne oraz ciekawe aspekty tej interesującej dziedzi
 1. [Technologia druku 3D oraz jej zastosowania](./2023/1_09.10.2023notes.md)
     - Teoria: Przedstawienie najbardziej popularnych technik druku 3D, typy materiałów oraz istotne aspekty drukowania. Zastosowanie w życiu codziennym.
     - Demonstracja Praktyczna: Od designu w programie komputerowym, przez przystosowanie modelu do druku, obsługę drukarki i drukowanie na żywo.
-2. Prototypowanie układów elektronicznych
+2. [Prototypowanie układów elektronicznych](./2023/2_16.10.2023notes.md)
     - Teoria: Ukazanie podstawowych metod tworzenia prototypów układów elektronicznych, płytki stykowe, rozwojowe oraz używanie gotowych komponentów.
     - Warsztaty: Stworzenie kilku prostych układów elektronicznych na płytkach stykowych.
 3. Arduino oraz Raspberry Pi dla zastosowań praktycznych
