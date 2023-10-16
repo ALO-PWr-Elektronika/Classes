@@ -4,17 +4,25 @@ Gdzie nadsyłać zadania: Platformę ustalę niedługo. Póki co zgłoszenia nad
 
 ### 3D Challenge - 09.10
 Naucz się modelować :)<br/>
-Zaprojektuj, w wybranym przez siebie programie 3D:
+Zaprojektuj, w wybranym programie 3D:
 - Przystosowany do druku `model 3D`, mający związek z `ALO`.
 
 Akceptowalnym rozwiązaniem jest plik `.stl`
 
 Dla niezdecydowanych polecam darmowy program [blender](https://www.blender.org/).
 
+### Circuit Prototyping Challenge - 16.10
+Naucz się prototypować :)<br/>
+Zaprojektuj prototyp stacji pogodowej wykorzystującej mikrokontroler, co najmniej jeden czujnik atmosferyczny oraz wyświetlacz LCD. Nie zapomnij o zasilaniu.
+- Stwórz schemat obwodu w wybranym programie do projektowania obwodów.
+
+Akceptowalnym rozwiązaniem jest plik graficzny, bądź dokument np. `.pdf`.
+
+Do wykonania zadania polecam programy [KiCAD](https://www.kicad.org/), bądź nawet [Fritzing](https://fritzing.org/).
+
 <br/><br/>
 ***Nadchodzące challenge***
 
-###### Circuit Prototyping Challenge
 ###### Arduino & Raspberry Pi Programming Challenge
 ###### Home Automation and IoT Challenge
 ###### Robotics Challenge

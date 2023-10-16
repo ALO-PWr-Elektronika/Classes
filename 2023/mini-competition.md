@@ -49,24 +49,20 @@ Kryteria oceny zgłoszenia (od najważniejszego):
 
 - Circuit Prototyping Challenge:
     - Uczestnicy będą prototypować obwód w celu rozwiązania konkretnego problemu.
-    - Muszą przesłać film demonstrujący działający prototyp.
     - Szczegółowe instrukcje i lista komponentów zostaną dostarczone.
     - Punkty bonusowe za pierwsze zgłoszenie.
 
 - Arduino & Raspberry Pi Programming Challenge:
     - Uczestnicy zaprogramują Arduino lub Raspberry Pi do wykonania określonego zadania.
-    - Muszą przesłać kod wraz z filmem przedstawiającym projekt w akcji.
     - Szczegółowe instrukcje i zasoby programistyczne zostaną dostarczone.
     - Punkty bonusowe za pierwsze zgłoszenie.
 
 - Home Automation and IoT Challenge:
     - Uczestnicy stworzą projekt automatyki domowej z wykorzystaniem urządzeń IoT.
-    - Muszą przesłać film prezentujący działający projekt.
     - Szczegółowe instrukcje i zalecenia dotyczące sprzętu zostaną dostarczone.
 
 - Robotics Challenge:
     - Uczestnicy zaprojektują i zbudują małego robota zdolnego do wykonania określonego zadania.
-    - Uczestnicy muszą przesłać film przedstawiający robota w akcji.
     - Szczegółowe instrukcje, lista komponentów i przykładowy kod zostaną dostarczone.
 
 #### Zaangażowanie i wsparcie:
