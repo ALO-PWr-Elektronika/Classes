@@ -20,16 +20,16 @@ Akceptowalnym rozwiązaniem jest plik graficzny, bądź dokument np. `.pdf`.
 
 Do wykonania zadania polecam programy [KiCAD](https://www.kicad.org/), bądź nawet [Fritzing](https://fritzing.org/).
 
-<br/><br/>
-***Nadchodzące challenge***
-
-###### Arduino Programming Challenge
+### Arduino Programming Challenge
 Naucz się pisać kod na arduino<br/>
 Wszystkie chwyty dozwolone - stwórz małą grę wykorzystującą wyświetlacz LCD 16x2. Niech dotyczy ona naszego ALO.
 
 Akceptowalnym rozwiązaniem jest kod `.ino`, `.c`, `.h`, `.cpp` bądź dowolny inny program na mikrokontroler.
 
 Do wykonania zadania polecam środowisko platformIO oraz Arduino.
+
+<br/><br/>
+***Nadchodzące challenge***
 
 ###### Home Automation and IoT Challenge
 ###### Robotics Challenge
