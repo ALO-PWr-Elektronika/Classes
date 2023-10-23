@@ -23,6 +23,13 @@ Do wykonania zadania polecam programy [KiCAD](https://www.kicad.org/), bądź na
 <br/><br/>
 ***Nadchodzące challenge***
 
-###### Arduino & Raspberry Pi Programming Challenge
+###### Arduino Programming Challenge
+Naucz się pisać kod na arduino<br/>
+Wszystkie chwyty dozwolone - stwórz małą grę wykorzystującą wyświetlacz LCD 16x2. Niech dotyczy ona naszego ALO.
+
+Akceptowalnym rozwiązaniem jest kod `.ino`, `.c`, `.h`, `.cpp` bądź dowolny inny program na mikrokontroler.
+
+Do wykonania zadania polecam środowisko platformIO oraz Arduino.
+
 ###### Home Automation and IoT Challenge
 ###### Robotics Challenge
