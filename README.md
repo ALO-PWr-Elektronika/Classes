@@ -14,12 +14,13 @@ podczas których omówię ważne oraz ciekawe aspekty tej interesującej dziedzi
     - Teoria: Ukazanie podstawowych metod tworzenia prototypów układów elektronicznych, płytki stykowe, rozwojowe oraz używanie gotowych komponentów.
     - Warsztaty: Stworzenie kilku prostych układów elektronicznych na płytkach stykowych.
     - [Bonus - CanSat](./2023/cansat.md)
+    - [Bonus - Powtórzenie z Prawa Ohma](./2022/other/Class%201%20-%2018%20Nov%202022/Ohms_Law_Recap.md)
 3. [Arduino dla zastosowań praktycznych](./2023/3_23.10.2023notes.md)
     - Teoria: Czym jest oraz do czego służy mikrokontroler. Czym jest oraz do czego służy mikrokomputer.
     - Warsztaty: Nauka programowania Arduino w środowisku Arduino IDE, bądź PlatformIO. Instalacja systemu oraz podstawowe informacje dotyczące działania oscyloskopu i zasilacza laboratoryjnego.
-4. Automatyka domowa i przestrzeń interaktywna
+4. [Automatyka domowa i przestrzeń interaktywna](./2023/4_30.10.2023notes.md)
     - Teoria: Założenia inteligentnego domu, podstawy technologii sieci internetu rzeczy.
-    - Warsztaty: Stworzenie inteligentnego systemu zarządzania światłem z poziomu telefonu.
+    - Warsztaty: ~~Stworzenie inteligentnego systemu zarządzania światłem z poziomu telefonu.~~ (Na prośbę uczestników) Podstawy granich, pochodnych, całek i równań różniczkowych. [Calculus](./2023/calculus-notes.md).
 5. Robotyka
     - Teoria: Podstawy tworzenia robotów. Aspekty sensoryczne i motoryczne.
     - Warsztaty: Wykorzystanie LEGO Mindstorms do tworzenia prostych robotów, wykorzystanie sensorów i silników.
