@@ -73,7 +73,7 @@ Lub gdy:
 
 $r^2+\frac{k}{m}=0\Longrightarrow r^2=-\frac{k}{m}\Rightarrow r=\pm\sqrt{-\frac{k}{m}}\Rightarrow r=\pm i\sqrt{\frac{k}{m}}$
 
-Dokonujemy podstawienia r do postaci funkcji x\left(t\right)=Ae^{rt}, otrzymując:
+Dokonujemy podstawienia r do postaci funkcji $x\left(t\right)=Ae^{rt}$, otrzymując:
 
 $x\left(t\right)={Ae}^{rt}\ oraz\ r=\pm i\sqrt{\frac{k}{m}}$
 
