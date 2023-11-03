@@ -45,7 +45,7 @@ Interpretacja geometryczna pochodnej - styczna do wykresu funkcji.
 
 ### Całki
 
-Narysuj dowolną funkcję ciągłą która nie jest funkcją liniową.
+P2. Narysuj dowolną funkcję ciągłą która nie jest funkcją liniową.
 
 Kres górny funkcji to najmniejsza liczba ograniczająca te funkcję z góry:
 
@@ -68,6 +68,8 @@ Funkcję $f$ nazywa się całkowalną w sensie Riemanna lub krótko R-całkowaln
 $$R_{f}=\lim_{k\to \infty} R_{{f,P^{k}\left(q_{1}^{k},\dots ,q_{{n_{k}}}^{k}\right)}}$$
 
 nazywana wtedy **całką Riemanna** tej funkcji. $R_f$ Oznaczamy ją jako $\int f(x) dx$
+
+![obraz](https://github.com/ALO-PWr-Elektronika/Classes/assets/88141065/6e4e60d5-9964-46d1-a2f1-103ce74a67e2)
 
 Z4. Oblicz $\int x^2 dx$, $\int sin(x) dx$
 
