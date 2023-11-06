@@ -21,7 +21,7 @@ podczas których omówię ważne oraz ciekawe aspekty tej interesującej dziedzi
 4. [Automatyka domowa i przestrzeń interaktywna](./2023/4_30.10.2023notes.md)
     - Teoria: Założenia inteligentnego domu, podstawy technologii sieci internetu rzeczy.
     - Warsztaty: ~~Stworzenie inteligentnego systemu zarządzania światłem z poziomu telefonu.~~ (Na prośbę uczestników) Podstawy granich, pochodnych, całek i równań różniczkowych. [Calculus](./2023/calculus-notes.md).
-5. Robotyka
+5. [Robotyka](./2023/5_06.11.2023notes.md)
     - Teoria: Podstawy tworzenia robotów. Aspekty sensoryczne i motoryczne.
     - Warsztaty: Wykorzystanie LEGO Mindstorms do tworzenia prostych robotów, wykorzystanie sensorów i silników.
 6. Analiza danych w IT
