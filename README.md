@@ -24,19 +24,24 @@ podczas których omówię ważne oraz ciekawe aspekty tej interesującej dziedzi
 5. [Robotyka](./2023/5_06.11.2023notes.md)
     - Teoria: Podstawy tworzenia robotów. Aspekty sensoryczne i motoryczne.
     - Warsztaty: Wykorzystanie LEGO Mindstorms do tworzenia prostych robotów, wykorzystanie sensorów i silników.
-6. Analiza danych w IT
+6. [Robotyka](./2023/5_06.11.2023notes.md) - na prośbę uczestników kontynuacja poprzednich zajęć, plus mini konkurs
+    - Warsztaty: Stworzenie szybkiego pojazdu wykorzystującego silniki i sensory. Minikonkurs - wyścig stworzonych robotów.
+7. [Zaawansowane zagadnienia związane z Arduino](./2023/7_20.11.2023notes.md)
+    - Teoria: Interrupty, pośrednie programatory oraz nieco o logice i szyfrowaniu XOR
+    - Warsztaty: Programowanie interruptów dla Arduino UNO, dwustronna komunikacja dwóch płytek.
+8. Analiza danych w IT
     - Teoria: Lecture Description: Explore the power of big data and how it is utilized in various industries for insights and decision-making.
     - Warsztaty: Użycie zestawu danych oraz środowiska python do tworzenia interaktywnych wizualizacji oraz wykrywania schematów (pattern-matching)
-7. Testy penetracyjne oraz podstawy cyberbezpieczeństwa
+9.  Testy penetracyjne oraz podstawy cyberbezpieczeństwa
     - Nauka poprzez etyczne hackowanie oraz wykrywanie i łatanie niebezpiecznych luk w systemach.
     - Demonstracja praktyczna: Atak w kontrolowanych warunkach na niezabezpieczony system. Ukazanie konsekwencji ataku.
-8. Koszt energetyczny, minimalizacja zużycia danych oraz sieci przewodowe.
+10. Koszt energetyczny, minimalizacja zużycia danych oraz sieci przewodowe.
     - Teoria: Podstawy algorytmiki oraz metody wymiany danych.
     - Warsztaty: Programowanie i analiza złożoności obliczeniowej, program do sprawdzania poprawności komunikatów.
-9. Sieci bezprzewodowe oraz zastosowania
+11. Sieci bezprzewodowe oraz zastosowania
     - Teoria: Podstawy sieci bezprzewodowych, przestrzeń elektromagnetyczna i pasma otwarte.
     - Demonstracja praktyczna: Komunikacja 2.400GHz przy użyciu własnoręcznie wykonanego odbiornika i nadajnika na fale ultrakrótkie.
-10. Biometria i uwierzytelnienie
+12. Biometria i uwierzytelnienie
     - Teoria: Podstawy biometrii oraz systemy autoryzacji i uwierzytelnienia użytkowników.
     - Demonstracja praktyczna: Integracja modułu czytającego odciski palca, uwierzytelnienie w serwisach sieciowych.
 
