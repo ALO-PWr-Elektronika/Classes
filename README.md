@@ -29,18 +29,18 @@ podczas których omówię ważne oraz ciekawe aspekty tej interesującej dziedzi
 7. [Zaawansowane zagadnienia związane z Arduino](./2023/7_20.11.2023notes.md)
     - Teoria: Interrupty, pośrednie programatory oraz nieco o logice i szyfrowaniu XOR
     - Warsztaty: Programowanie interruptów dla Arduino UNO, dwustronna komunikacja dwóch płytek.
-8. Analiza danych w IT
-    - Teoria: Lecture Description: Explore the power of big data and how it is utilized in various industries for insights and decision-making.
-    - Warsztaty: Użycie zestawu danych oraz środowiska python do tworzenia interaktywnych wizualizacji oraz wykrywania schematów (pattern-matching)
-9.  Testy penetracyjne oraz podstawy cyberbezpieczeństwa
-    - Nauka poprzez etyczne hackowanie oraz wykrywanie i łatanie niebezpiecznych luk w systemach.
-    - Demonstracja praktyczna: Atak w kontrolowanych warunkach na niezabezpieczony system. Ukazanie konsekwencji ataku.
-10. Koszt energetyczny, minimalizacja zużycia danych oraz sieci przewodowe.
-    - Teoria: Podstawy algorytmiki oraz metody wymiany danych.
-    - Warsztaty: Programowanie i analiza złożoności obliczeniowej, program do sprawdzania poprawności komunikatów.
-11. Sieci bezprzewodowe oraz zastosowania
+8.  [Sieci bezprzewodowe oraz zastosowania](./2023/8_27.11.2023notes.md)
     - Teoria: Podstawy sieci bezprzewodowych, przestrzeń elektromagnetyczna i pasma otwarte.
     - Demonstracja praktyczna: Komunikacja 2.400GHz przy użyciu własnoręcznie wykonanego odbiornika i nadajnika na fale ultrakrótkie.
+9. Analiza danych w IT
+    - Teoria: Lecture Description: Explore the power of big data and how it is utilized in various industries for insights and decision-making.
+    - Warsztaty: Użycie zestawu danych oraz środowiska python do tworzenia interaktywnych wizualizacji oraz wykrywania schematów (pattern-matching)
+10. Testy penetracyjne oraz podstawy cyberbezpieczeństwa
+    - Nauka poprzez etyczne hackowanie oraz wykrywanie i łatanie niebezpiecznych luk w systemach.
+    - Demonstracja praktyczna: Atak w kontrolowanych warunkach na niezabezpieczony system. Ukazanie konsekwencji ataku.
+11. Koszt energetyczny, minimalizacja zużycia danych oraz sieci przewodowe.
+    - Teoria: Podstawy algorytmiki oraz metody wymiany danych.
+    - Warsztaty: Programowanie i analiza złożoności obliczeniowej, program do sprawdzania poprawności komunikatów.
 12. Biometria i uwierzytelnienie
     - Teoria: Podstawy biometrii oraz systemy autoryzacji i uwierzytelnienia użytkowników.
     - Demonstracja praktyczna: Integracja modułu czytającego odciski palca, uwierzytelnienie w serwisach sieciowych.
