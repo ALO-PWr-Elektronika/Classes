@@ -14,7 +14,6 @@ a) prądów płynących w gałęziach<br/>
 b) rezystancji zastępczej obwodu $R_{AC}$<br/>
 c) spadki napięcia $U_{FB}$ oraz $U_{EB}$<br/>
 
-
 ___
 
 *Pytania*
