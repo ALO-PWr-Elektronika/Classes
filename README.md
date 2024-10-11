@@ -1,9 +1,9 @@
 ## Zajęcia z elektroniki 2024
 
-prezentuję krótki plan zajęć z elektroniki na rok 2024. Chciałbym w tym roku poprowadzić serię eksperymentów połączonych z opisem matematycznym, 
+Prezentuję krótki plan zajęć z elektroniki na rok 2024. Chciałbym w tym roku poprowadzić serię eksperymentów połączonych z opisem matematycznym, 
 podczas których omówię ważne oraz ciekawe aspekty tej interesującej dziedziny:
 
-1. [Prąd stały: Prawo Ohma, prawa Kirchhoffa i dzielnik napięcia - eksperymenty.](./2024/1_2024-10-08/2024-10-08-notes.md)
+1. [Prąd stały: Prawo Ohma, prawa Kirchhoffa i dzielnik napięcia - eksperymenty](./2024/1_2024-10-08/2024-10-08-notes.md) [2024-10-08].
 2. Idea tranzystorów oraz wykreślenie charakterystyki prądowo-napięciowej diod półprzewodnikowych.
 3. Kondensatory i cewki - zasady całkowania i różniczkowania w obwodach
 4. Równanie różniczkowe 1-go stopnia. Ładowanie i rozładowanie obwodu RC
